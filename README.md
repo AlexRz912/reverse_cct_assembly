@@ -15,7 +15,7 @@ Self-imposed exercise to:
 ## Structure
 
 `reverse_cct_assembly_guess.c` contains:
-- **C code** from the Reverse CCT game main function
+- **C code** from the Reverse CCT game main function : `https://github.com/AlexRz912/reverse_cct`
 - **Inline assembly comments** showing hypothetical compiled output
 - **Annotations** explaining memory access and control flow
 
@@ -39,6 +39,5 @@ int previousAnswerCorrect = 1;
 - x86 32-bit architecture only
 - Windows calling conventions
 - Not validated against actual compiler output (PLEASE, this is MACHINE code, give me some time to sleep)
-
 
 *An exercise in understanding the bridge between C and assembly.*
