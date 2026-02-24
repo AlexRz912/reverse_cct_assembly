@@ -15,7 +15,7 @@ Self-imposed exercise to:
 ## Structure
 
 `reverse_cct_assembly_guess.c` contains:
-- **C code** from the Reverse CCT game main function : `https://github.com/AlexRz912/reverse_cct`
+- **C code** from the Reverse CCT game main function : https://github.com/AlexRz912/reverse_cct
 - **Inline assembly comments** showing hypothetical compiled output
 - **Annotations** explaining memory access and control flow
 
